@@ -1,12 +1,9 @@
 print("Welcome to Rock, Paper, Scissors!")
+print("This game is best of three!")
 
 player = (0)
 computer = (0)
 round = (0)
-
-1 == ("✊")
-2 == ("✋")
-3 == ("✌️")
 
 while round < 3:
     player = int(input("Pick a number between 1 and 3. "))
