@@ -1,2 +1,2 @@
-# Welcome to Rock, Paper, Scissors!
-This is my first Python project!
+# Rock, Paper, Scissors!
+Welcome to rock, paper, scissors! This is my first Python project!
